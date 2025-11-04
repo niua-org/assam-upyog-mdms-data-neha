@@ -1,5 +1,5 @@
 {
-  "tenantId": "as.tinsukia",
+  "tenantId": "pg.tinsukia",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
@@ -15,7 +15,7 @@
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "as.tinsukia",
+        "code": "pg.tinsukia",
         "children": [
           {
             "id": "7e9c1a00-11f0-4d8b-b001-11a7a001501",

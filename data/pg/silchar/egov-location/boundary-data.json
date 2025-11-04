@@ -1,5 +1,5 @@
 {
-  "tenantId": "as.silchar",
+  "tenantId": "pg.silchar",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
@@ -15,7 +15,7 @@
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "as.silchar",
+        "code": "pg.silchar",
         "children": [
           {
             "id": "cba2b6ee-ae93-4af6-81c8-fe4e820d745a",
