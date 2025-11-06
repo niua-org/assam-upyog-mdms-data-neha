@@ -29,7 +29,7 @@
           "description": "Structural Safety Certificate",
           "mandatory": false,
           "source": "DXF_FILE",
-          "conditions": ["G_PLUS_3_BUILDINGS", "HEIGHT_GREATER_THAN_12_M", "SPECIAL_STRUCTURES"],
+          "conditions": ["G_PLUS_3_BUILDINGS", "BUILDING_HEIGHT_GREATER_THAN_12M", "SPECIAL_STRUCTURES"],
           "reference": "Byelaw 18(b), 100(1)(i), 118"
         },
         {
@@ -210,7 +210,7 @@
           "description": "Fire Safety NOC for Occupancy",
           "mandatory": false,
           "source": "DXF_FILE",
-          "conditions": ["ALL_NON_RESIDENTIAL", "BUILDING_HEIGHT_GREATER_THAN_15_POINT_8_M"],
+          "conditions": ["ALL_NON_RESIDENTIAL", "BUILDING_HEIGHT_GREATER_THAN_15.8M"],
           "reference": "Byelaw 28(d), 60(d), 94(2)(a)"
         },
         {
