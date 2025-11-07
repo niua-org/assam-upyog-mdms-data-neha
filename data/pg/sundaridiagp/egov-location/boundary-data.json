@@ -25,7 +25,7 @@
             "longitude": null,
             "latitude": null,
             "label": "Village",
-            "code": "V1",
+            "code": "SundaridiaV1",
             "children": []
           },
           {
@@ -36,7 +36,7 @@
             "longitude": null,
             "latitude": null,
             "label": "Village",
-            "code": "V2",
+            "code": "SundaridiaV2",
             "children": []
           }
         ]

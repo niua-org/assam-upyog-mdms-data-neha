@@ -25,7 +25,7 @@
             "longitude": null,
             "latitude": null,
             "label": "Village",
-            "code": "V1",
+            "code": "ModerkhatV1",
             "children": []
           },
           {
@@ -36,7 +36,7 @@
             "longitude": null,
             "latitude": null,
             "label": "Village",
-            "code": "V2",
+            "code": "ModerkhatV2",
             "children": []
           },
           {
@@ -47,7 +47,7 @@
             "longitude": null,
             "latitude": null,
             "label": "Village",
-            "code": "V3",
+            "code": "ModerkhatV3",
             "children": []
           }
         ]

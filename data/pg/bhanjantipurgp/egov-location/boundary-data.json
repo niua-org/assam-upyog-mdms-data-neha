@@ -25,7 +25,7 @@
             "longitude": null,
             "latitude": null,
             "label": "Village",
-            "code": "V1",
+            "code": "BhanjantipurV1",
             "children": []
           },
           {
@@ -36,7 +36,7 @@
             "longitude": null,
             "latitude": null,
             "label": "Village",
-            "code": "V2",
+            "code": "BhanjantipurV2",
             "children": []
           }
         ]

@@ -25,7 +25,7 @@
             "longitude": null,
             "latitude": null,
             "label": "Village",
-            "code": "V1",
+            "code": "BorguriV1",
             "children": []
           },
           {
@@ -36,7 +36,7 @@
             "longitude": null,
             "latitude": null,
             "label": "Village",
-            "code": "V2",
+            "code": "BorguriV2",
             "children": []
           },
           {
@@ -47,7 +47,7 @@
             "longitude": null,
             "latitude": null,
             "label": "Village",
-            "code": "V3",
+            "code": "BorguriV3",
             "children": []
           },
           {
@@ -58,7 +58,7 @@
             "longitude": null,
             "latitude": null,
             "label": "Village",
-            "code": "V4",
+            "code": "BorguriV4",
             "children": []
           },
           {
@@ -69,7 +69,7 @@
             "longitude": null,
             "latitude": null,
             "label": "Village",
-            "code": "V5",
+            "code": "BorguriV5",
             "children": []
           },
           {
@@ -80,7 +80,7 @@
             "longitude": null,
             "latitude": null,
             "label": "Village",
-            "code": "V6",
+            "code": "BorguriV6",
             "children": []
           },
           {
@@ -91,7 +91,7 @@
             "longitude": null,
             "latitude": null,
             "label": "Village",
-            "code": "V7",
+            "code": "BorguriV7",
             "children": []
           },
           {
@@ -102,7 +102,7 @@
             "longitude": null,
             "latitude": null,
             "label": "Village",
-            "code": "V8",
+            "code": "BorguriV8",
             "children": []
           },
           {
@@ -113,7 +113,7 @@
             "longitude": null,
             "latitude": null,
             "label": "Village",
-            "code": "V9",
+            "code": "BorguriV9",
             "children": []
           },
           {
@@ -124,7 +124,7 @@
             "longitude": null,
             "latitude": null,
             "label": "Village",
-            "code": "V10",
+            "code": "BorguriV10",
             "children": []
           },
           {
@@ -135,7 +135,7 @@
             "longitude": null,
             "latitude": null,
             "label": "Village",
-            "code": "V11",
+            "code": "BorguriV11",
             "children": []
           },
           {
@@ -146,7 +146,7 @@
             "longitude": null,
             "latitude": null,
             "label": "Village",
-            "code": "V12",
+            "code": "BorguriV12",
             "children": []
           },
           {
@@ -157,7 +157,7 @@
             "longitude": null,
             "latitude": null,
             "label": "Village",
-            "code": "V13",
+            "code": "BorguriV13",
             "children": []
           },
           {
@@ -168,7 +168,7 @@
             "longitude": null,
             "latitude": null,
             "label": "Village",
-            "code": "V14",
+            "code": "BorguriV14",
             "children": []
           }
         ]

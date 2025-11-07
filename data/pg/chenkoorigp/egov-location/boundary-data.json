@@ -25,7 +25,7 @@
             "longitude": null,
             "latitude": null,
             "label": "Village",
-            "code": "V1",
+            "code": "ChenkooriV1",
             "children": []
           },
           {
@@ -36,7 +36,7 @@
             "longitude": null,
             "latitude": null,
             "label": "Village",
-            "code": "V2",
+            "code": "ChenkooriV2",
             "children": []
           },
           {
@@ -47,7 +47,7 @@
             "longitude": null,
             "latitude": null,
             "label": "Village",
-            "code": "V3",
+            "code": "ChenkooriV3",
             "children": []
           },
           {
@@ -58,7 +58,7 @@
             "longitude": null,
             "latitude": null,
             "label": "Village",
-            "code": "V4",
+            "code": "ChenkooriV4",
             "children": []
           }
         ]

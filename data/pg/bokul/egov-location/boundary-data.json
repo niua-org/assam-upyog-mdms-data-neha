@@ -25,7 +25,7 @@
             "longitude": null,
             "latitude": null,
             "label": "Village",
-            "code": "V1",
+            "code": "BokulV1",
             "children": []
           },
           {
@@ -36,7 +36,7 @@
             "longitude": null,
             "latitude": null,
             "label": "Village",
-            "code": "V2",
+            "code": "BokulV2",
             "children": []
           },
           {
@@ -47,7 +47,7 @@
             "longitude": null,
             "latitude": null,
             "label": "Village",
-            "code": "V3",
+            "code": "BokulV3",
             "children": []
           },
           {
@@ -58,7 +58,7 @@
             "longitude": null,
             "latitude": null,
             "label": "Village",
-            "code": "V4",
+            "code": "BokulV4",
             "children": []
           },
           {
@@ -69,7 +69,7 @@
             "longitude": null,
             "latitude": null,
             "label": "Village",
-            "code": "V5",
+            "code": "BokulV5",
             "children": []
           },
           {
@@ -80,7 +80,7 @@
             "longitude": null,
             "latitude": null,
             "label": "Village",
-            "code": "V6",
+            "code": "BokulV6",
             "children": []
           }
         ]

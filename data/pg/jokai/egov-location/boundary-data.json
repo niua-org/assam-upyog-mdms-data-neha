@@ -25,7 +25,7 @@
             "longitude": null,
             "latitude": null,
             "label": "Village",
-            "code": "V1",
+            "code": "JokaiV1",
             "children": []
           },
           {
@@ -36,7 +36,7 @@
             "longitude": null,
             "latitude": null,
             "label": "Village",
-            "code": "V2",
+            "code": "JokaiV2",
             "children": []
           },
           {
@@ -47,7 +47,7 @@
             "longitude": null,
             "latitude": null,
             "label": "Village",
-            "code": "V3",
+            "code": "JokaiV3",
             "children": []
           },
           {
@@ -58,7 +58,7 @@
             "longitude": null,
             "latitude": null,
             "label": "Village",
-            "code": "V4",
+            "code": "JokaiV4",
             "children": []
           },
           {
@@ -69,7 +69,7 @@
             "longitude": null,
             "latitude": null,
             "label": "Village",
-            "code": "V5",
+            "code": "JokaiV5",
             "children": []
           },
           {
@@ -80,7 +80,7 @@
             "longitude": null,
             "latitude": null,
             "label": "Village",
-            "code": "V6",
+            "code": "JokaiV6",
             "children": []
           },
           {
@@ -91,7 +91,7 @@
             "longitude": null,
             "latitude": null,
             "label": "Village",
-            "code": "V7",
+            "code": "JokaiV7",
             "children": []
           },
           {
@@ -102,7 +102,7 @@
             "longitude": null,
             "latitude": null,
             "label": "Village",
-            "code": "V8",
+            "code": "JokaiV8",
             "children": []
           },
           {
@@ -113,7 +113,7 @@
             "longitude": null,
             "latitude": null,
             "label": "Village",
-            "code": "V9",
+            "code": "JokaiV9",
             "children": []
           },
           {
@@ -124,7 +124,7 @@
             "longitude": null,
             "latitude": null,
             "label": "Village",
-            "code": "V10",
+            "code": "JokaiV10",
             "children": []
           },
           {
@@ -135,7 +135,7 @@
             "longitude": null,
             "latitude": null,
             "label": "Village",
-            "code": "V11",
+            "code": "JokaiV11",
             "children": []
           },
           {
@@ -146,7 +146,7 @@
             "longitude": null,
             "latitude": null,
             "label": "Village",
-            "code": "V12",
+            "code": "JokaiV12",
             "children": []
           },
           {
@@ -157,7 +157,7 @@
             "longitude": null,
             "latitude": null,
             "label": "Village",
-            "code": "V13",
+            "code": "JokaiV13",
             "children": []
           },
           {
@@ -168,7 +168,7 @@
             "longitude": null,
             "latitude": null,
             "label": "Village",
-            "code": "V14",
+            "code": "JokaiV14",
             "children": []
           },
           {
@@ -179,7 +179,7 @@
             "longitude": null,
             "latitude": null,
             "label": "Village",
-            "code": "V15",
+            "code": "JokaiV15",
             "children": []
           },
           {
@@ -190,7 +190,7 @@
             "longitude": null,
             "latitude": null,
             "label": "Village",
-            "code": "V16",
+            "code": "JokaiV16",
             "children": []
           },
           {
@@ -201,7 +201,7 @@
             "longitude": null,
             "latitude": null,
             "label": "Village",
-            "code": "V17",
+            "code": "JokaiV17",
             "children": []
           },
           {
@@ -212,7 +212,7 @@
             "longitude": null,
             "latitude": null,
             "label": "Village",
-            "code": "V18",
+            "code": "JokaiV18",
             "children": []
           },
           {
@@ -223,7 +223,7 @@
             "longitude": null,
             "latitude": null,
             "label": "Village",
-            "code": "V19",
+            "code": "JokaiV19",
             "children": []
           }
         ]
