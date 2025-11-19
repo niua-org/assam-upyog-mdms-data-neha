@@ -956,6 +956,36 @@
       "code": "BPA_URBAN_DESIGNER",
       "name": "BPA Urban Designer",
       "description": "Role for Urban Design professional"
+    },
+    {
+      "code": "BPA_ENGINEER_DA",
+      "name": "BPA DA Engineer",
+      "description": "Role for Development Authority Engineer for report submission"
+    },
+    {
+      "code": "BPA_DD_AD_DEVELOPMENT_AUTHORITY",
+      "name": "BPA DD/AD Development Authority",
+      "description": "Role for DD/AD officers of Development Authority for recommendation and review"
+    },
+    {
+      "code": "BPA_CHAIRMAN_DA",
+      "name": "BPA Chairman DA",
+      "description": "Role for Chairman of Development Authority for approval"
+    },
+    {
+      "code": "BPA_TECHNICAL_ENGINEER_MB",
+      "name": "BPA Technical Engineer MB",
+      "description": "Role for Municipal Body Technical Engineer for forwarding applications"
+    },
+    {
+      "code": "BPA_DD_AD_TCP",
+      "name": "BPA DD/AD TCP",
+      "description": "Role for DD/AD of Town and Country Planning for forwarding"
+    },
+    {
+      "code": "BPA_CHAIRMAN_PRESIDENT_MB",
+      "name": "BPA Chairman/President MB",
+      "description": "Role for Municipal Body Chairman or President for final approval"
     }
   ]
 }

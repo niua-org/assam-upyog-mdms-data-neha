@@ -21527,6 +21527,17 @@
       "serviceCode": "BPA",
       "code": "null",
       "path": ""
+   },
+   {
+      "id": 3081,
+      "name": "Validate Property by TIN",
+      "url": "/bpa-services/v1/property/validate/{propertyId}",
+      "displayName": "Validate Property",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "BPA",
+      "code": "null",
+      "path": ""
    }
   ]
 }
