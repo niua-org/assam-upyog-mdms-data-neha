@@ -21538,6 +21538,17 @@
       "serviceCode": "BPA",
       "code": "null",
       "path": ""
+   },
+   {
+      "id": 3082,
+      "name": "Gis Validation Search",
+      "url": "gis-service/zone/_search",
+      "displayName": "Gis Validation Search",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "BPA",
+      "code": "null",
+      "path": ""
    }
   ]
 }
