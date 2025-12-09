@@ -113,12 +113,12 @@
       "city": {
         "name": "Tinsukia GP",
         "districtName": null,
-        "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "TINSUKIA_GP",
-        "districtTenantCode": "as.tinsukiagp",
+        "ulbGrade": "MUNICIPAL_BOARD",
+        "districtCode": "TINSUKIA_MB",
+        "districtTenantCode": "as.tinsukiamb",
         "planningAreaCode": "TINSUKIA_MP",
         "code": "1516",
-        "ddrName": "Tinsukia GP Gram Panchayat"
+        "ddrName": "Tinsukia Municiapl Board"
       }
     },
     {
@@ -1068,9 +1068,9 @@
       }
     },
     {
-      "code": "as.tinsukiagp",
-      "name": "Tinsukia GP",
-      "description": "Tinsukia GP",
+      "code": "as.tinsukiamb",
+      "name": "Tinsukia MB",
+      "description": "Tinsukia MB",
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
@@ -1080,7 +1080,7 @@
       "city": {
         "name": "Tinsukia GP",
         "districtName": null,
-        "ulbGrade": "GRAM_PANCHAYAT",
+        "ulbGrade": "M",
         "districtCode": "TINSUKIA_GP",
         "districtTenantCode": "as.tinsukiaGP",
         "planningAreaCode": "TINSUKIA_MP",
@@ -5539,6 +5539,27 @@
         "planningAreaCode": "SRIBHUMI_MP",
         "code": "1868",
         "ddrName": "Maizgram GP Gram Panchayat"
+      },
+    },
+    {
+      "code": "as.tinsukiagp",
+      "name": "Tinsukia GP",
+      "description": "Tinsukia GP",
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
+      "imageId": null,
+      "domainUrl": "https://www.upyog.niua.org",
+      "type": "CITY",
+      "emailId": "info.tinsukiamb@gmail.com",
+      "city": {
+        "name": "Tinsukia GP",
+        "districtName": null,
+        "ulbGrade": "GRAM_PANCHAYAT",
+        "districtCode": "TINSUKIA_GP",
+        "districtTenantCode": "as.tinsukiaGP",
+        "planningAreaCode": "TINSUKIA_MP",
+        "code": "1869",
+        "ddrName": "Tinsukia GP Gram Panchayat"
       }
     }
   ]
