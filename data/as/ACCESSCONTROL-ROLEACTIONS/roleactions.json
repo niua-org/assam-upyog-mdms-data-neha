@@ -32907,6 +32907,36 @@
       "actionid": 3084,
       "actioncode": "",
       "tenantId": "as"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 3085,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ENGINEER",
+      "actionid": 3085,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_APPROVER",
+      "actionid": 3085,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "SOIL_TEST_APPROVER",
+      "actionid": 1729,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "SOIL_TEST_APPROVER",
+      "actionid": 1730,
+      "actioncode": "",
+      "tenantId": "as"
     }
   ]
 }
