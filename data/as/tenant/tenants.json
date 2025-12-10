@@ -2093,11 +2093,11 @@
       "emailId": "info.chapaigp@gmail.com",
       "city": {
         "name": "Chapai",
-        "districtName": null,
+        "districtName": "Darang",
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "CHAPAI",
-        "districtTenantCode": "as.chapai",
-        "planningAreaCode": "DHUBRI_MP",
+        "districtCode": "DARANG",
+        "districtTenantCode": "as.mangaldaimb",
+        "planningAreaCode": "MANGOLDAI_MP",
         "code": "1700",
         "ddrName": "Chapai Gram Panchayat"
       }
@@ -2114,11 +2114,11 @@
       "emailId": "info.nagarbahigp@gmail.com",
       "city": {
         "name": "Nagarbahi",
-        "districtName": null,
+        "districtName": "Darang",
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "NAGARBAHI",
-        "districtTenantCode": "as.nagarbahi",
-        "planningAreaCode": "DHUBRI_MP",
+        "districtCode": "DARANG",
+        "districtTenantCode": "as.mangaldaimb",
+        "planningAreaCode": "MANGOLDAI_MP",
         "code": "1701",
         "ddrName": "Nagarbahi Gram Panchayat"
       }
@@ -2135,11 +2135,11 @@
       "emailId": "info.mowamarigp@gmail.com",
       "city": {
         "name": "Mowamari",
-        "districtName": null,
+        "districtName": "Darang",
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "MOWAMARI",
-        "districtTenantCode": "as.mowamari",
-        "planningAreaCode": "DHUBRI_MP",
+        "districtCode": "DARANG",
+        "districtTenantCode": "as.mangaldaimb",
+        "planningAreaCode": "MANGOLDAI_MP",
         "code": "1702",
         "ddrName": "Mowamari Gram Panchayat"
       }
@@ -2156,11 +2156,11 @@
       "emailId": "info.upahuparagp@gmail.com",
       "city": {
         "name": "Upahupara",
-        "districtName": null,
+        "districtName": "Darang",
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "UPAHUPARA",
-        "districtTenantCode": "as.upahupara",
-        "planningAreaCode": "DHUBRI_MP",
+        "districtCode": "DARANG",
+        "districtTenantCode": "as.mangaldaimb",
+        "planningAreaCode": "MANGOLDAI_MP",
         "code": "1703",
         "ddrName": "Upahupara Gram Panchayat"
       }
@@ -2177,11 +2177,11 @@
       "emailId": "info.bandiagp@gmail.com",
       "city": {
         "name": "Bandia",
-        "districtName": null,
+        "districtName": "Darang",
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "BANDIA",
-        "districtTenantCode": "as.bandia",
-        "planningAreaCode": "DHUBRI_MP",
+        "districtCode": "DARANG",
+        "districtTenantCode": "as.mangaldaimb",
+        "planningAreaCode": "MANGOLDAI_MP",
         "code": "1704",
         "ddrName": "Bandia Gram Panchayat"
       }
@@ -2198,11 +2198,11 @@
       "emailId": "info.chamuaparagp@gmail.com",
       "city": {
         "name": "Chamuapara",
-        "districtName": null,
+        "districtName": "Darang",
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "CHAMUAPARA",
-        "districtTenantCode": "as.chamuapara",
-        "planningAreaCode": "DHUBRI_MP",
+        "districtCode": "DARANG",
+        "districtTenantCode": "as.mangaldaimb",
+        "planningAreaCode": "MANGOLDAI_MP",
         "code": "1705",
         "ddrName": "Chamuapara Gram Panchayat"
       }
@@ -2223,7 +2223,7 @@
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "DHUBRI",
         "districtTenantCode": "as.dhubri",
-        "planningAreaCode": "DHUBRI_MP",
+        "planningAreaCode": "DHUBRI_GAURIPUR_MP",
         "code": "1706",
         "ddrName": "Falimari Gram Panchayat"
       }
@@ -2244,7 +2244,7 @@
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "DHUBRI",
         "districtTenantCode": "as.dhubri",
-        "planningAreaCode": "DHUBRI_MP",
+        "planningAreaCode": "DHUBRI_GAURIPUR_MP",
         "code": "1707",
         "ddrName": "Jhagrarpar Gram Panchayat"
       }
@@ -2265,7 +2265,7 @@
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "DHUBRI",
         "districtTenantCode": "as.dhubri",
-        "planningAreaCode": "DHUBRI_MP",
+        "planningAreaCode": "DHUBRI_GAURIPUR_MP",
         "code": "1708",
         "ddrName": "Bhasanichar Gram Panchayat"
       }
@@ -2286,7 +2286,7 @@
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "DHUBRI",
         "districtTenantCode": "as.dhubri",
-        "planningAreaCode": "DHUBRI_MP",
+        "planningAreaCode": "DHUBRI_GAURIPUR_MP",
         "code": "1709",
         "ddrName": "Adabari Gram Panchayat"
       }
@@ -2307,7 +2307,7 @@
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "DHUBRI",
         "districtTenantCode": "as.dhubri",
-        "planningAreaCode": "DHUBRI_MP",
+        "planningAreaCode": "DHUBRI_GAURIPUR_MP",
         "code": "1710",
         "ddrName": "Madhusoulmari Tiamari Gram Panchayat"
       }
@@ -2328,7 +2328,7 @@
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "DHUBRI",
         "districtTenantCode": "as.dhubri",
-        "planningAreaCode": "DHUBRI_MP",
+        "planningAreaCode": "DHUBRI_GAURIPUR_MP",
         "code": "1711",
         "ddrName": "Motirchar Gram Panchayat"
       }
@@ -2349,7 +2349,7 @@
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "DHUBRI",
         "districtTenantCode": "as.dhubri",
-        "planningAreaCode": "DHUBRI_MP",
+        "planningAreaCode": "DHUBRI_GAURIPUR_MP",
         "code": "1712",
         "ddrName": "Chapgarh Gram Panchayat"
       }
@@ -2370,7 +2370,7 @@
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "DHUBRI",
         "districtTenantCode": "as.dhubri",
-        "planningAreaCode": "DHUBRI_MP",
+        "planningAreaCode": "DHUBRI_GAURIPUR_MP",
         "code": "1713",
         "ddrName": "Silairpar Gram Panchayat"
       }
@@ -2391,7 +2391,7 @@
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "DHUBRI",
         "districtTenantCode": "as.dhubri",
-        "planningAreaCode": "DHUBRI_MP",
+        "planningAreaCode": "DHUBRI_GAURIPUR_MP",
         "code": "1714",
         "ddrName": "South Geramari Gram Panchayat"
       }
@@ -2412,7 +2412,7 @@
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "DHUBRI",
         "districtTenantCode": "as.dhubri",
-        "planningAreaCode": "DHUBRI_MP",
+        "planningAreaCode": "DHUBRI_GAURIPUR_MP",
         "code": "1715",
         "ddrName": "Madhusoulmari Gram Panchayat"
       }
@@ -2429,11 +2429,11 @@
       "emailId": "info.daridurigp@gmail.com",
       "city": {
         "name": "Dariduri",
-        "districtName": null,
+        "districtName": "Goalpara",
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "DARIDURI",
-        "districtTenantCode": "as.dariduri",
-        "planningAreaCode": "DHUBRI_MP",
+        "districtCode": "GOALPARA",
+        "districtTenantCode": "as.goalparamb",
+        "planningAreaCode": "GOALPARA_MP",
         "code": "1716",
         "ddrName": "Dariduri Gram Panchayat"
       }
@@ -2450,11 +2450,11 @@
       "emailId": "info.hashilagp@gmail.com",
       "city": {
         "name": "Hashila",
-        "districtName": null,
+        "districtName": "Goalpara",
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "HASHILA",
-        "districtTenantCode": "as.hashila",
-        "planningAreaCode": "DHUBRI_MP",
+        "districtCode": "GOALPARA",
+        "districtTenantCode": "as.goalparamb",
+        "planningAreaCode": "GOALPARA_MP",
         "code": "1717",
         "ddrName": "Hashila Gram Panchayat"
       }
@@ -2471,11 +2471,11 @@
       "emailId": "info.kumrigp@gmail.com",
       "city": {
         "name": "Kumri",
-        "districtName": null,
+        "districtName": "Goalpara",
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "KUMRI",
-        "districtTenantCode": "as.kumri",
-        "planningAreaCode": "DHUBRI_MP",
+        "districtCode": "GOALPARA",
+        "districtTenantCode": "as.goalparamb",
+        "planningAreaCode": "GOALPARA_MP",
         "code": "1718",
         "ddrName": "Kumri Gram Panchayat"
       }
@@ -2492,11 +2492,11 @@
       "emailId": "info.bhalukdubigp@gmail.com",
       "city": {
         "name": "Bhalukdubi",
-        "districtName": null,
+        "districtName": "Goalpara",
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "BHALUKDUBI",
-        "districtTenantCode": "as.bhalukdubi",
-        "planningAreaCode": "DHUBRI_MP",
+        "districtCode": "GOALPARA",
+        "districtTenantCode": "as.goalparamb",
+        "planningAreaCode": "GOALPARA_MP",
         "code": "1719",
         "ddrName": "Bhalukdubi Gram Panchayat"
       }
@@ -2515,9 +2515,9 @@
         "name": "Dakhinpat",
         "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "DAKHINPAT",
-        "districtTenantCode": "as.dakhinpat",
-        "planningAreaCode": "DHUBRI_MP",
+        "districtCode": "NAGAON",
+        "districtTenantCode": "as.nagaonmb",
+        "planningAreaCode": "NAGAON_MP",
         "code": "1720",
         "ddrName": "Dakhinpat Gram Panchayat"
       }
@@ -2536,9 +2536,9 @@
         "name": "Senchowa",
         "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "SENCHOWA",
-        "districtTenantCode": "as.senchowa",
-        "planningAreaCode": "DHUBRI_MP",
+        "districtCode": "NAGAON",
+        "districtTenantCode": "as.nagaonmb",
+        "planningAreaCode": "NAGAON_MP",
         "code": "1721",
         "ddrName": "Senchowa Gram Panchayat"
       }
@@ -2557,9 +2557,9 @@
         "name": "Kachamari",
         "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "KACHAMARI",
-        "districtTenantCode": "as.kachamari",
-        "planningAreaCode": "DHUBRI_MP",
+        "districtCode": "NAGAON",
+        "districtTenantCode": "as.nagaonmb",
+        "planningAreaCode": "NAGAON_MP",
         "code": "1722",
         "ddrName": "Kachamari Gram Panchayat"
       }
@@ -2578,9 +2578,9 @@
         "name": "Bebejia Dimow Banthai",
         "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "BEBEJIA_DIMOW_BANTHAI",
-        "districtTenantCode": "as.bebejiadimowbanthai",
-        "planningAreaCode": "DHUBRI_MP",
+        "districtCode": "NAGAON",
+        "districtTenantCode": "as.nagaonmb",
+        "planningAreaCode": "NAGAON_MP",
         "code": "1723",
         "ddrName": "Bebejia Dimow Banthai Gram Panchayat"
       }
@@ -2599,9 +2599,9 @@
         "name": "Dewdhar",
         "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "DEWDHAR",
-        "districtTenantCode": "as.dewdhar",
-        "planningAreaCode": "DHUBRI_MP",
+        "districtCode": "NAGAON",
+        "districtTenantCode": "as.nagaonmb",
+        "planningAreaCode": "NAGAON_MP",
         "code": "1724",
         "ddrName": "Dewdhar Gram Panchayat"
       }
@@ -2620,9 +2620,9 @@
         "name": "Borbheti",
         "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "BORBHETI",
-        "districtTenantCode": "as.borbheti",
-        "planningAreaCode": "DHUBRI_MP",
+        "districtCode": "NAGAON",
+        "districtTenantCode": "as.nagaonmb",
+        "planningAreaCode": "NAGAON_MP",
         "code": "1725",
         "ddrName": "Borbheti Gram Panchayat"
       }
@@ -2641,9 +2641,9 @@
         "name": "Bengena Ati",
         "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "BENGENA_ATI",
-        "districtTenantCode": "as.bengenaati",
-        "planningAreaCode": "DHUBRI_MP",
+        "districtCode": "NAGAON",
+        "districtTenantCode": "as.nagaonmb",
+        "planningAreaCode": "NAGAON_MP",
         "code": "1726",
         "ddrName": "Bengena Ati Gram Panchayat"
       }
@@ -2662,9 +2662,9 @@
         "name": "Bhutai Pathori",
         "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "BHUTAI_PATHORI",
-        "districtTenantCode": "as.bhutaipathori",
-        "planningAreaCode": "DHUBRI_MP",
+        "districtCode": "NAGAON",
+        "districtTenantCode": "as.nagaonmb",
+        "planningAreaCode": "NAGAON_MP",
         "code": "1727",
         "ddrName": "Bhutai Pathori Gram Panchayat"
       }
@@ -2683,9 +2683,9 @@
         "name": "Chotto Haibor",
         "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "CHOTTO_HAIBOR",
-        "districtTenantCode": "as.chottohaibor",
-        "planningAreaCode": "DHUBRI_MP",
+        "districtCode": "NAGAON",
+        "districtTenantCode": "as.nagaonmb",
+        "planningAreaCode": "NAGAON_MP",
         "code": "1728",
         "ddrName": "Chotto Haibor Gram Panchayat"
       }
@@ -2704,9 +2704,9 @@
         "name": "Morongial",
         "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "MORONGIAL",
-        "districtTenantCode": "as.morongial",
-        "planningAreaCode": "DHUBRI_MP",
+        "districtCode": "NAGAON",
+        "districtTenantCode": "as.nagaonmb",
+        "planningAreaCode": "NAGAON_MP",
         "code": "1729",
         "ddrName": "Morongial Gram Panchayat"
       }
@@ -2809,9 +2809,9 @@
         "name": "Lawgaon",
         "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "LAWGAON",
-        "districtTenantCode": "as.lawgaon",
-        "planningAreaCode": "DHUBRI_MP",
+        "districtCode": "NAGAON",
+        "districtTenantCode": "as.nagaonmb",
+        "planningAreaCode": "NAGAON_MP",
         "code": "1738",
         "ddrName": "Lawgaon Gram Panchayat"
       }
@@ -2830,9 +2830,9 @@
         "name": "Katani Gaon",
         "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "KATANI_GAON",
-        "districtTenantCode": "as.katanigaon",
-        "planningAreaCode": "DHUBRI_MP",
+        "districtCode": "NAGAON",
+        "districtTenantCode": "as.nagaonmb",
+        "planningAreaCode": "NAGAON_MP",
         "code": "1739",
         "ddrName": "Katani Gaon Gram Panchayat"
       }
@@ -3399,7 +3399,7 @@
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "SONITPUR",
         "districtTenantCode": "as.tezpurmb",
-        "planningAreaCode": "DHUBRI_MP",
+        "planningAreaCode": "TEZPUR_MP",
         "code": "1766",
         "ddrName": "Ushapur Gram Panchayat"
       }
@@ -3420,7 +3420,7 @@
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "SONITPUR",
         "districtTenantCode": "as.tezpurmb",
-        "planningAreaCode": "DHUBRI_MP",
+        "planningAreaCode": "TEZPUR_MP",
         "code": "1767",
         "ddrName": "Bhomora guri Gram Panchayat"
       }
@@ -3441,7 +3441,7 @@
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "SONITPUR",
         "districtTenantCode": "as.tezpurmb",
-        "planningAreaCode": "DHUBRI_MP",
+        "planningAreaCode": "TEZPUR_MP",
         "code": "1768",
         "ddrName": "Rajgarh Gram Panchayat"
       }
@@ -3462,13 +3462,13 @@
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "SONITPUR",
         "districtTenantCode": "as.tezpurmb",
-        "planningAreaCode": "DHUBRI_MP",
+        "planningAreaCode": "TEZPUR_MP",
         "code": "1769",
         "ddrName": "Panchmile Gram Panchayat"
       }
     },
     {
-      "code": "as.chaprakata2no",
+      "code": "as.chaprakata",
       "name": "2 No. Chaprakata",
       "description": "2 No. Chaprakata",
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
@@ -3483,7 +3483,7 @@
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "BOMGAIGAON",
         "districtTenantCode": "as.bongaigaon",
-        "planningAreaCode": "DHUBRI_MP",
+        "planningAreaCode": "BONGAIGAON_MP",
         "code": "1770",
         "ddrName": "2 No. Chaprakata Gram Panchayat"
       }
@@ -3504,7 +3504,7 @@
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "BOMGAIGAON",
         "districtTenantCode": "as.bongaigaon",
-        "planningAreaCode": "DHUBRI_MP",
+        "planningAreaCode": "BONGAIGAON_MP",
         "code": "1771",
         "ddrName": "Chiponchila Gram Panchayat"
       }
@@ -3525,7 +3525,7 @@
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "BOMGAIGAON",
         "districtTenantCode": "as.bongaigaon",
-        "planningAreaCode": "DHUBRI_MP",
+        "planningAreaCode": "BONGAIGAON_MP",
         "code": "1772",
         "ddrName": "Chokapara Gram Panchayat"
       }
@@ -3546,7 +3546,7 @@
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "BOMGAIGAON",
         "districtTenantCode": "as.bongaigaon",
-        "planningAreaCode": "DHUBRI_MP",
+        "planningAreaCode": "BONGAIGAON_MP",
         "code": "1773",
         "ddrName": "Dangtol Gram Panchayat"
       }
@@ -3567,7 +3567,7 @@
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "BOMGAIGAON",
         "districtTenantCode": "as.bongaigaon",
-        "planningAreaCode": "DHUBRI_MP",
+        "planningAreaCode": "BONGAIGAON_MP",
         "code": "1774",
         "ddrName": "Dhaligaon Gram Panchayat"
       }
@@ -3588,7 +3588,7 @@
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "BOMGAIGAON",
         "districtTenantCode": "as.bongaigaon",
-        "planningAreaCode": "DHUBRI_MP",
+        "planningAreaCode": "BONGAIGAON_MP",
         "code": "1775",
         "ddrName": "Dolaigaon Gram Panchayat"
       }
@@ -3609,7 +3609,7 @@
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "BOMGAIGAON",
         "districtTenantCode": "as.bongaigaon",
-        "planningAreaCode": "DHUBRI_MP",
+        "planningAreaCode": "BONGAIGAON_MP",
         "code": "1776",
         "ddrName": "Mulagaon Gram Panchayat"
       }
@@ -3628,9 +3628,9 @@
         "name": "Herapaty",
         "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "HERAPATY",
-        "districtTenantCode": "as.herapaty",
-        "planningAreaCode": "DHUBRI_MP",
+        "districtCode": "NAGAON",
+        "districtTenantCode": "as.nagaonmb",
+        "planningAreaCode": "NAGAON_MP",
         "code": "1777",
         "ddrName": "Herapaty Gram Panchayat"
       }
@@ -3649,9 +3649,9 @@
         "name": "Majarati Huj",
         "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "MAJARATI_HUJ",
-        "districtTenantCode": "as.majaratihuj",
-        "planningAreaCode": "DHUBRI_MP",
+        "districtCode": "NAGAON",
+        "districtTenantCode": "as.nagaonmb",
+        "planningAreaCode": "NAGAON_MP",
         "code": "1778",
         "ddrName": "Majarati Huj Gram Panchayat"
       }
@@ -3670,9 +3670,9 @@
         "name": "Singia Potoni",
         "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "SINGIA_POTONI",
-        "districtTenantCode": "as.singiapotoni",
-        "planningAreaCode": "DHUBRI_MP",
+        "districtCode": "NAGAON",
+        "districtTenantCode": "as.nagaonmb",
+        "planningAreaCode": "NAGAON_MP",
         "code": "1779",
         "ddrName": "Singia Potoni Gram Panchayat"
       }
@@ -3691,9 +3691,9 @@
         "name": "Rowmari Rupahi",
         "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "ROWMARI_RUPAHI",
-        "districtTenantCode": "as.rowmarirupahi",
-        "planningAreaCode": "DHUBRI_MP",
+        "districtCode": "NAGAON",
+        "districtTenantCode": "as.nagaonmb",
+        "planningAreaCode": "NAGAON_MP",
         "code": "1780",
         "ddrName": "Rowmari Rupahi Gram Panchayat"
       }
@@ -3712,9 +3712,9 @@
         "name": "Uriagaon",
         "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "URIAGAON",
-        "districtTenantCode": "as.uriagaon",
-        "planningAreaCode": "DHUBRI_MP",
+        "districtCode": "NAGAON",
+        "districtTenantCode": "as.nagaonmb",
+        "planningAreaCode": "NAGAON_MP",
         "code": "1781",
         "ddrName": "Uriagaon Gram Panchayat"
       }
@@ -3733,9 +3733,9 @@
         "name": "Bhakatgaon",
         "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "BHAKATGAON",
-        "districtTenantCode": "as.bhakatgaon",
-        "planningAreaCode": "DHUBRI_MP",
+        "districtCode": "NAGAON",
+        "districtTenantCode": "as.nagaonmb",
+        "planningAreaCode": "NAGAON_MP",
         "code": "1782",
         "ddrName": "Bhakatgaon Gram Panchayat"
       }
@@ -3754,9 +3754,9 @@
         "name": "Ghahi Gaon",
         "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "GHAHI_GAON",
-        "districtTenantCode": "as.ghahigaon",
-        "planningAreaCode": "DHUBRI_MP",
+        "districtCode": "NAGAON",
+        "districtTenantCode": "as.nagaonmb",
+        "planningAreaCode": "NAGAON_MP",
         "code": "1783",
         "ddrName": "Ghahi Gaon Gram Panchayat"
       }
@@ -3775,9 +3775,9 @@
         "name": "Dakhin Jagial",
         "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "DAKHIN_JAGIAL",
-        "districtTenantCode": "as.dakhinjagial",
-        "planningAreaCode": "DHUBRI_MP",
+        "districtCode": "NAGAON",
+        "districtTenantCode": "as.nagaonmb",
+        "planningAreaCode": "NAGAON_MP",
         "code": "1784",
         "ddrName": "Dakhin Jagial Gram Panchayat"
       }
@@ -3796,9 +3796,9 @@
         "name": "Jamuguri Kujidah",
         "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "JAMUGURI_KUJIDAH",
-        "districtTenantCode": "as.jamugurikujidah",
-        "planningAreaCode": "DHUBRI_MP",
+        "districtCode": "NAGAON",
+        "districtTenantCode": "as.nagaonmb",
+        "planningAreaCode": "NAGAON_MP",
         "code": "1785",
         "ddrName": "Jamuguri Kujidah Gram Panchayat"
       }
@@ -3817,9 +3817,9 @@
         "name": "Phulaguri",
         "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "PHULAGURI",
-        "districtTenantCode": "as.phulaguri",
-        "planningAreaCode": "DHUBRI_MP",
+        "districtCode": "NAGAON",
+        "districtTenantCode": "as.nagaonmb",
+        "planningAreaCode": "NAGAON_MP",
         "code": "1786",
         "ddrName": "Phulaguri Gram Panchayat"
       }
@@ -4386,7 +4386,7 @@
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "JORHAT",
         "districtTenantCode": "as.jorhatmb",
-        "planningAreaCode": "DHUBRI_MP",
+        "planningAreaCode": "JORHAT_MP",
         "code": "1813",
         "ddrName": "51 no. Baghchung Charaibahi Gram Panchayat"
       }
@@ -4407,7 +4407,7 @@
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "JORHAT",
         "districtTenantCode": "as.jorhatmb",
-        "planningAreaCode": "DHUBRI_MP",
+        "planningAreaCode": "JORHAT_MP",
         "code": "1814",
         "ddrName": "42 no. Pub Sarucharai Gram Panchayat"
       }
@@ -4428,7 +4428,7 @@
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "JORHAT",
         "districtTenantCode": "as.jorhatmb",
-        "planningAreaCode": "DHUBRI_MP",
+        "planningAreaCode": "JORHAT_MP",
         "code": "1815",
         "ddrName": "65 no. Baghchung Gram Panchayat"
       }
@@ -4449,7 +4449,7 @@
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "JORHAT",
         "districtTenantCode": "as.jorhatmb",
-        "planningAreaCode": "DHUBRI_MP",
+        "planningAreaCode": "JORHAT_MP",
         "code": "1816",
         "ddrName": "34 no. Pachim Charigaon Gram Panchayat"
       }
@@ -4470,7 +4470,7 @@
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "JORHAT",
         "districtTenantCode": "as.jorhatmb",
-        "planningAreaCode": "DHUBRI_MP",
+        "planningAreaCode": "JORHAT_MP",
         "code": "1817",
         "ddrName": "33 No. Uttar Pub Charigaon Gram Panchayat"
       }
@@ -4491,7 +4491,7 @@
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "JORHAT",
         "districtTenantCode": "as.jorhatmb",
-        "planningAreaCode": "DHUBRI_MP",
+        "planningAreaCode": "JORHAT_MP",
         "code": "1818",
         "ddrName": "32 No. Pub Charigaon Gram Panchayat"
       }
@@ -4512,7 +4512,7 @@
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "JORHAT",
         "districtTenantCode": "as.jorhatmb",
-        "planningAreaCode": "DHUBRI_MP",
+        "planningAreaCode": "JORHAT_MP",
         "code": "1819",
         "ddrName": "31 No. Madhya Charigaon Gram Panchayat"
       }
@@ -4533,7 +4533,7 @@
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "JORHAT",
         "districtTenantCode": "as.jorhatmb",
-        "planningAreaCode": "DHUBRI_MP",
+        "planningAreaCode": "JORHAT_MP",
         "code": "1820",
         "ddrName": "22 No. Pachim Holongapar Gram Panchayat"
       }
@@ -4554,7 +4554,7 @@
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "JORHAT",
         "districtTenantCode": "as.jorhatmb",
-        "planningAreaCode": "DHUBRI_MP",
+        "planningAreaCode": "JORHAT_MP",
         "code": "1821",
         "ddrName": "30 no. Uttar Pachim Charigaon Gram Panchayat"
       }
@@ -4575,7 +4575,7 @@
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "JORHAT",
         "districtTenantCode": "as.jorhatmb",
-        "planningAreaCode": "DHUBRI_MP",
+        "planningAreaCode": "JORHAT_MP",
         "code": "1822",
         "ddrName": "53 No. Uttar Garamur Gram Panchayat"
       }
@@ -4596,7 +4596,7 @@
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "JORHAT",
         "districtTenantCode": "as.jorhatmb",
-        "planningAreaCode": "DHUBRI_MP",
+        "planningAreaCode": "JORHAT_MP",
         "code": "1823",
         "ddrName": "54 No. Chinnamora Gram Panchayat"
       }
@@ -4617,7 +4617,7 @@
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "JORHAT",
         "districtTenantCode": "as.jorhatmb",
-        "planningAreaCode": "DHUBRI_MP",
+        "planningAreaCode": "JORHAT_MP",
         "code": "1824",
         "ddrName": "28 No. Meleng Balichapori Gram Panchayat"
       }
@@ -4644,7 +4644,7 @@
       }
     },
     {
-      "code": "as.palashanitelia",
+      "code": "as.palashaniteliapahuakata",
       "name": "Palashani Telia Pahukata",
       "description": "Palashani Telia Pahukata",
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
@@ -4657,9 +4657,9 @@
         "name": "Palashani Telia Pahukata",
         "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "PALASHANI_TELIA_PAHUKATA",
-        "districtTenantCode": "as.palashanitelia",
-        "planningAreaCode": "DHUBRI_MP",
+        "districtCode": "NAGAON",
+        "districtTenantCode": "as.nagaonmb",
+        "planningAreaCode": "NAGAON_MP",
         "code": "1826",
         "ddrName": "Palashani Telia Pahukata Gram Panchayat"
       }
@@ -4678,9 +4678,9 @@
         "name": "Bheleuguri Diphalu",
         "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "BHELEUGURI_DIPHALU",
-        "districtTenantCode": "as.bheleuguridiphalu",
-        "planningAreaCode": "DHUBRI_MP",
+        "districtCode": "NAGAON",
+        "districtTenantCode": "as.nagaonmb",
+        "planningAreaCode": "NAGAON_MP",
         "code": "1827",
         "ddrName": "Bheleuguri Diphalu Gram Panchayat"
       }
@@ -4827,7 +4827,7 @@
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "SONITPUR",
         "districtTenantCode": "as.tezpurmb",
-        "planningAreaCode": "MANGALDAI_MP",
+        "planningAreaCode": "TEZPUR_MP",
         "code": "1834",
         "ddrName": "Na-pam Gram Panchayat"
       }
@@ -4848,7 +4848,7 @@
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "SONITPUR",
         "districtTenantCode": "as.tezpurmb",
-        "planningAreaCode": "MANGALDAI_MP",
+        "planningAreaCode": "TEZPUR_MP",
         "code": "1835",
         "ddrName": "Bindukuri Gram Panchayat"
       }
@@ -4869,7 +4869,7 @@
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "SONITPUR",
         "districtTenantCode": "as.tezpurmb",
-        "planningAreaCode": "MANGALDAI_MP",
+        "planningAreaCode": "TEZPUR_MP",
         "code": "1836",
         "ddrName": "Haleswar Gram Panchayat"
       }
@@ -4890,7 +4890,7 @@
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "BISWANATH",
         "districtTenantCode": "as.biswanathcharialimb",
-        "planningAreaCode": "TEZPUR_MP",
+        "planningAreaCode": "BISWANATH_CHARIALI_MP",
         "code": "1837",
         "ddrName": "Garehagi Gram Panchayat"
       }
@@ -4911,7 +4911,7 @@
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "BISWANATH",
         "districtTenantCode": "as.biswanathcharialimb",
-        "planningAreaCode": "TEZPUR_MP",
+        "planningAreaCode": "BISWANATH_CHARIALI_MP",
         "code": "1838",
         "ddrName": "Kuwari gaon Gram Panchayat"
       }
@@ -4932,7 +4932,7 @@
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "BISWANATH",
         "districtTenantCode": "as.biswanathcharialimb",
-        "planningAreaCode": "TEZPUR_MP",
+        "planningAreaCode": "BISWANATH_CHARIALI_MP",
         "code": "1839",
         "ddrName": "Panibharal Gram Panchayat"
       }
@@ -4953,7 +4953,7 @@
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "BISWANATH",
         "districtTenantCode": "as.biswanathcharialimb",
-        "planningAreaCode": "TEZPUR_MP",
+        "planningAreaCode": "BISWANATH_CHARIALI_MP",
         "code": "1840",
         "ddrName": "Lehugaon Gram Panchayat"
       }
@@ -4974,7 +4974,7 @@
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "BISWANATH",
         "districtTenantCode": "as.biswanathcharialimb",
-        "planningAreaCode": "TEZPUR_MP",
+        "planningAreaCode": "BISWANATH_CHARIALI_MP",
         "code": "1841",
         "ddrName": "Burigang Gram Panchayat"
       }
@@ -4995,7 +4995,7 @@
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "BISWANATH",
         "districtTenantCode": "as.biswanathcharialimb",
-        "planningAreaCode": "TEZPUR_MP",
+        "planningAreaCode": "BISWANATH_CHARIALI_MP",
         "code": "1842",
         "ddrName": "Mukhargarh Gram Panchayat"
       }
@@ -5016,7 +5016,7 @@
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "JORHAT",
         "districtTenantCode": "as.jorhatmb",
-        "planningAreaCode": "DHUBRI_MP",
+        "planningAreaCode": "JORHAT_MP",
         "code": "1843",
         "ddrName": "48 no. Uttar Namoni Charaibahi Gram Panchayat"
       }
@@ -5037,7 +5037,7 @@
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "JORHAT",
         "districtTenantCode": "as.jorhatmb",
-        "planningAreaCode": "DHUBRI_MP",
+        "planningAreaCode": "JORHAT_MP",
         "code": "1844",
         "ddrName": "50 No. Dakhin Pub Namoni Charaibahi Gram Panchayat"
       }
@@ -5058,7 +5058,7 @@
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "JORHAT",
         "districtTenantCode": "as.jorhatmb",
-        "planningAreaCode": "DHUBRI_MP",
+        "planningAreaCode": "JORHAT_MP",
         "code": "1845",
         "ddrName": "49 no. Madhya Namoni Charaibahi Gram Panchayat"
       }
@@ -5079,7 +5079,7 @@
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "JORHAT",
         "districtTenantCode": "as.jorhatmb",
-        "planningAreaCode": "DHUBRI_MP",
+        "planningAreaCode": "JORHAT_MP",
         "code": "1846",
         "ddrName": "52 No. Dakhin Charaibahi Gram Panchayat"
       }
@@ -5100,7 +5100,7 @@
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "JORHAT",
         "districtTenantCode": "as.jorhatmb",
-        "planningAreaCode": "DHUBRI_MP",
+        "planningAreaCode": "JORHAT_MP",
         "code": "1847",
         "ddrName": "36 no. Nowboisa Gram Panchayat"
       }
@@ -5121,7 +5121,7 @@
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "JORHAT",
         "districtTenantCode": "as.jorhatmb",
-        "planningAreaCode": "DHUBRI_MP",
+        "planningAreaCode": "JORHAT_MP",
         "code": "1848",
         "ddrName": "37 No. Rajahowli Gram Panchayat"
       }
@@ -5142,7 +5142,7 @@
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "JORHAT",
         "districtTenantCode": "as.jorhatmb",
-        "planningAreaCode": "DHUBRI_MP",
+        "planningAreaCode": "JORHAT_MP",
         "code": "1849",
         "ddrName": "68 No. Uttar Khangia Gram Panchayat"
       }
@@ -5163,7 +5163,7 @@
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "JORHAT",
         "districtTenantCode": "as.jorhatmb",
-        "planningAreaCode": "DHUBRI_MP",
+        "planningAreaCode": "JORHAT_MP",
         "code": "1850",
         "ddrName": "67 No. Panichokua Gram Panchayat"
       }
@@ -5184,7 +5184,7 @@
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "JORHAT",
         "districtTenantCode": "as.jorhatmb",
-        "planningAreaCode": "DHUBRI_MP",
+        "planningAreaCode": "JORHAT_MP",
         "code": "1851",
         "ddrName": "70 No. Madhya Khangia Gram Panchayat"
       }
@@ -5205,7 +5205,7 @@
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "JORHAT",
         "districtTenantCode": "as.jorhatmb",
-        "planningAreaCode": "DHUBRI_MP",
+        "planningAreaCode": "JORHAT_MP",
         "code": "1852",
         "ddrName": "45 No. Pachim Sarucharai Gram Panchayat"
       }
@@ -5226,7 +5226,7 @@
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "JORHAT",
         "districtTenantCode": "as.jorhatmb",
-        "planningAreaCode": "DHUBRI_MP",
+        "planningAreaCode": "JORHAT_MP",
         "code": "1853",
         "ddrName": "43 No. Dhekorgorah Gram Panchayat"
       }
@@ -5247,7 +5247,7 @@
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "JORHAT",
         "districtTenantCode": "as.jorhatmb",
-        "planningAreaCode": "DHUBRI_MP",
+        "planningAreaCode": "JORHAT_MP",
         "code": "1854",
         "ddrName": "46 No. Charingia Gram Panchayat"
       }
@@ -5268,7 +5268,7 @@
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "JORHAT",
         "districtTenantCode": "as.jorhatmb",
-        "planningAreaCode": "DHUBRI_MP",
+        "planningAreaCode": "JORHAT_MP",
         "code": "1855",
         "ddrName": "56 No. Dakhin Koronga Gram Panchayat"
       }
@@ -5289,7 +5289,7 @@
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "JORHAT",
         "districtTenantCode": "as.jorhatmb",
-        "planningAreaCode": "DHUBRI_MP",
+        "planningAreaCode": "JORHAT_MP",
         "code": "1856",
         "ddrName": "55 No. Karanga Gram Panchayat"
       }
@@ -5607,6 +5607,27 @@
         "ulbGrade": "MUNICIPAL_BOARD",
         "code": "1871",
         "ddrName": "Sribhumi Municipal Board"
+      }
+    },
+    {
+      "code": "as.kalyanpur",
+      "name": "Kalyanpur Gram Panchayat",
+      "description": "Kalyanpur Gram Panchayat",
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
+      "imageId": null,
+      "domainUrl": "https://www.upyog.niua.org",
+      "type": "CITY",
+      "emailId": "complaints.kalyanpur@gmail.com",
+      "city": {
+        "name": "Kalyanpur",
+        "districtName": "Goalpara",
+        "ulbGrade": "GRAM_PANCHAYAT",
+        "districtCode": "GOALPARA",
+        "districtTenantCode": "as.goalparamb",
+        "planningAreaCode": "GOALPARA_MP",
+        "code": "1872",
+        "ddrName": "Kalyanpur Gram Panchayat"
       }
     }
   ]

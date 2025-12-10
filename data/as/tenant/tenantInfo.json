@@ -2227,7 +2227,7 @@
       ]
     },
     {
-      "code": "as.chaprakata2no",
+      "code": "as.chaprakata",
       "districtCode": "BOMGAIGAON",
       "population": "22382",
       "malePopulation": "10835",
@@ -3451,6 +3451,19 @@
     {
       "code": "as.sribhumimb",
       "districtCode": "SRIBHUMI",
+      "population": "40099",
+      "malePopulation": "20167",
+      "femalePopulation": "19932",
+      "workingPopulation": "45.43",
+      "literacyRate": "70.7",
+      "languagesSpoken": [
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "as.kalyanpur",
+      "districtCode": "GOALPARA",
       "population": "40099",
       "malePopulation": "20167",
       "femalePopulation": "19932",
