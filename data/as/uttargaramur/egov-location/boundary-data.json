@@ -19,7 +19,7 @@
         "children": [
           {
             "id": "ea28c19c-62f7-475e-b6f6-151b449e9bcc",
-            "boundaryNum": 19,
+            "boundaryNum": 1,
             "name": "DuliapamGaon",
             "localname": "DuliapamGaon",
             "longitude": null,
@@ -30,7 +30,7 @@
           },
           {
             "id": "95135e17-d3ed-4173-be3b-5c11b3ec3202",
-            "boundaryNum": 20,
+            "boundaryNum": 1,
             "name": "Kumar KaibartaGaon (CT)",
             "localname": "Kumar KaibartaGaon (CT)",
             "longitude": null,
@@ -41,7 +41,7 @@
           },
           {
             "id": "2cf692d6-4cb0-4dd7-b1c0-523e002a27f7",
-            "boundaryNum": 21,
+            "boundaryNum": 1,
             "name": "Duliagaon (OG)",
             "localname": "Duliagaon (OG)",
             "longitude": null,

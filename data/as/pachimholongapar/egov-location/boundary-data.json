@@ -19,7 +19,7 @@
         "children": [
           {
             "id": "68e60897-dab4-403f-b22b-9d09e010c84c",
-            "boundaryNum": 13,
+            "boundaryNum": 1,
             "name": "MoutGaon",
             "localname": "MoutGaon",
             "longitude": null,
@@ -30,7 +30,7 @@
           },
           {
             "id": "72f85d43-a864-4615-9520-d3aad7390b61",
-            "boundaryNum": 54,
+            "boundaryNum": 1,
             "name": "MeteliGaon",
             "localname": "MeteliGaon",
             "longitude": null,

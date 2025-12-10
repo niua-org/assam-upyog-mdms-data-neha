@@ -19,7 +19,7 @@
         "children": [
           {
             "id": "588dc138-f6d1-435b-aad3-72d46958f4fb",
-            "boundaryNum": 46,
+            "boundaryNum": 1,
             "name": "KuhiarBoria (KuhiaBoria Gaon)",
             "localname": "KuhiarBoria (KuhiaBoria Gaon)",
             "longitude": null,
@@ -30,7 +30,7 @@
           },
           {
             "id": "b502589f-a30b-4edb-ad99-f0bae321c1e8",
-            "boundaryNum": 47,
+            "boundaryNum": 1,
             "name": "DhekeliaBorsaikiaGaon",
             "localname": "DhekeliaBorsaikiaGaon",
             "longitude": null,

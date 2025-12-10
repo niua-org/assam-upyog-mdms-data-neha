@@ -30,7 +30,7 @@
           },
           {
             "id": "ced17c18-984d-4a86-b76f-f40da4c70aeb",
-            "boundaryNum": 2,
+            "boundaryNum": 1,
             "name": "Dolabari No.1",
             "localname": "Dolabari No.1",
             "longitude": null,
@@ -41,7 +41,7 @@
           },
           {
             "id": "a3d8ac95-40a8-4370-b1f7-18ef93a55c91",
-            "boundaryNum": 3,
+            "boundaryNum": 1,
             "name": "Dolabari No.2",
             "localname": "Dolabari No.2",
             "longitude": null,
@@ -52,7 +52,7 @@
           },
           {
             "id": "c447b04e-9c56-4364-ad67-0f49ee99b456",
-            "boundaryNum": 4,
+            "boundaryNum": 1,
             "name": "Gotlong",
             "localname": "Gotlong",
             "longitude": null,
@@ -63,7 +63,7 @@
           },
           {
             "id": "cbdf142f-021a-4938-9d67-43dfdea4aa84",
-            "boundaryNum": 5,
+            "boundaryNum": 1,
             "name": "Jahajduba",
             "localname": "Jahajduba",
             "longitude": null,

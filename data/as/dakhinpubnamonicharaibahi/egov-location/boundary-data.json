@@ -19,7 +19,7 @@
                 "children": [
                     {
                         "id": "253a6803-5e6e-44d1-8770-6bbc92efe840",
-                        "boundaryNum": 31,
+                        "boundaryNum": 1,
                         "name": "Rongai Habi",
                         "localname": "Rongai Habi",
                         "longitude": null,
@@ -30,7 +30,7 @@
                     },
                     {
                         "id": "8c170254-f732-4f38-a659-a0e9579e4349",
-                        "boundaryNum": 35,
+                        "boundaryNum": 1,
                         "name": "Chutiakari",
                         "localname": "Chutiakari",
                         "longitude": null,

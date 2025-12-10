@@ -30,7 +30,7 @@
           },
           {
             "id": "9270f95f-18ff-43ac-b90e-f873f9980f00",
-            "boundaryNum": 2,
+            "boundaryNum": 1,
             "name": "Jorgarh",
             "localname": "Jorgarh",
             "longitude": null,
@@ -41,7 +41,7 @@
           },
           {
             "id": "a78212d4-cc64-44b6-aa64-b991e1508a1c",
-            "boundaryNum": 3,
+            "boundaryNum": 1,
             "name": "Karaiyani Bengali",
             "localname": "Karaiyani Bengali",
             "longitude": null,
@@ -52,7 +52,7 @@
           },
           {
             "id": "362a1ace-bda4-486f-875c-a481092557bb",
-            "boundaryNum": 4,
+            "boundaryNum": 1,
             "name": "Morisuti",
             "localname": "Morisuti",
             "longitude": null,

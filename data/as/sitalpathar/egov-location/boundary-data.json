@@ -19,7 +19,7 @@
         "children": [
           {
             "id": "f1c382e8-e2e6-4ad4-85c6-f1fa6fc80a2c",
-            "boundaryNum": 5,
+            "boundaryNum": 1,
             "name": "129 No. Nahar Donga grant",
             "localname": "129 No. Nahar Donga grant",
             "longitude": null,
@@ -30,7 +30,7 @@
           },
           {
             "id": "5cca7be3-5754-4f03-9b96-5ee6555a2b32",
-            "boundaryNum": 11,
+            "boundaryNum": 1,
             "name": "215 No. Negheriting grant",
             "localname": "215 No. Negheriting grant",
             "longitude": null,
@@ -41,7 +41,7 @@
           },
           {
             "id": "1b0e5769-dd1d-48ff-a425-83eaa4c7b3f5",
-            "boundaryNum": 14,
+            "boundaryNum": 1,
             "name": "Sital pathar",
             "localname": "Sital pathar",
             "longitude": null,

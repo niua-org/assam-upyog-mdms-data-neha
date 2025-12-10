@@ -19,13 +19,13 @@
         "children": [
           {
             "id": "6794b5a8-a7f5-4d02-8d56-6801be73f7ff",
-            "boundaryNum": 32,
+            "boundaryNum": 1,
             "name": "SenchoaGaon",
             "localname": "SenchoaGaon",
             "longitude": null,
             "latitude": null,
             "label": "Village",
-            "code": "madhyanamonicharaibahiV32",
+            "code": "madhyanamonicharaibahiV1",
             "children": []
           }
         ]

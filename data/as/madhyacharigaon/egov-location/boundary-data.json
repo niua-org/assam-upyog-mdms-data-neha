@@ -19,7 +19,7 @@
         "children": [
           {
             "id": "009080a1-70be-45ae-a78c-d00c497e982f",
-            "boundaryNum": 12,
+            "boundaryNum": 1,
             "name": "HukimaraGaon(Only Part)",
             "localname": "HukimaraGaon(Only Part)",
             "longitude": null,
@@ -30,7 +30,7 @@
           },
           {
             "id": "3d62807c-5646-4e85-8aad-a89a1e50ad7f",
-            "boundaryNum": 15,
+            "boundaryNum": 1,
             "name": "BaghmuriaGaon",
             "localname": "BaghmuriaGaon",
             "longitude": null,
@@ -41,7 +41,7 @@
           },
           {
             "id": "bfc0bf87-6300-4caa-beb2-ffbc1b84f3f1",
-            "boundaryNum": 16,
+            "boundaryNum": 1,
             "name": "Chari Gaon",
             "localname": "Chari Gaon",
             "longitude": null,

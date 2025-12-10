@@ -30,7 +30,7 @@
           },
           {
             "id": "1e6f8b38-206c-4536-b59d-4bc610f209df",
-            "boundaryNum": 2,
+            "boundaryNum": 1,
             "name": "PuraniAlimur",
             "localname": "PuraniAlimur",
             "longitude": null,
@@ -41,7 +41,7 @@
           },
           {
             "id": "f402b056-c8eb-47a0-947e-3ebffd6721de",
-            "boundaryNum": 3,
+            "boundaryNum": 1,
             "name": "Uriamguri",
             "localname": "Uriamguri",
             "longitude": null,
@@ -52,7 +52,7 @@
           },
           {
             "id": "7d34a9dc-8c99-4b3a-b8ba-a9b326b6a826",
-            "boundaryNum": 4,
+            "boundaryNum": 1,
             "name": "Alichinga Uriamguri",
             "localname": "Alichinga Uriamguri",
             "longitude": null,

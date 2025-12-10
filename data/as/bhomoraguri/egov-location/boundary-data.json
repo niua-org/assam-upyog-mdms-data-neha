@@ -30,7 +30,7 @@
           },
           {
             "id": "2bc10f7d-9e59-4fed-bac4-6141170c2933",
-            "boundaryNum": 2,
+            "boundaryNum": 1,
             "name": "Bhojkhowa Chapari",
             "localname": "Bhojkhowa Chapari",
             "longitude": null,
@@ -41,7 +41,7 @@
           },
           {
             "id": "4cf1f713-be1c-4188-b881-4a843115171e",
-            "boundaryNum": 3,
+            "boundaryNum": 1,
             "name": "Bhojkhowa Gaon",
             "localname": "Bhojkhowa Gaon",
             "longitude": null,
@@ -52,7 +52,7 @@
           },
           {
             "id": "93cabc1d-12f0-4d86-b816-88fef90cdcb8",
-            "boundaryNum": 4,
+            "boundaryNum": 1,
             "name": "Bhomoraguri Pahar",
             "localname": "Bhomoraguri Pahar",
             "longitude": null,
@@ -63,7 +63,7 @@
           },
           {
             "id": "01f2bb64-eb0e-404d-bc11-1daee3dd88d9",
-            "boundaryNum": 5,
+            "boundaryNum": 1,
             "name": "Kacharipam",
             "localname": "Kacharipam",
             "longitude": null,
@@ -74,7 +74,7 @@
           },
           {
             "id": "21f0f4ae-76c8-4e27-9a60-0267084f6071",
-            "boundaryNum": 6,
+            "boundaryNum": 1,
             "name": "BhomoraguriGaon",
             "localname": "BhomoraguriGaon",
             "longitude": null,

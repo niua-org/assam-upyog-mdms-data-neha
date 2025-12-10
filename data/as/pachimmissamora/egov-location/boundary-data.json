@@ -19,7 +19,7 @@
         "children": [
           {
             "id": "d4fdebb0-088d-44fb-be21-c6086543c704",
-            "boundaryNum": 16,
+            "boundaryNum": 1,
             "name": "Habigaon",
             "localname": "Habigaon",
             "longitude": null,
@@ -30,7 +30,7 @@
           },
           {
             "id": "d9ad5874-1f44-439a-893d-dbfe273bdc34",
-            "boundaryNum": 17,
+            "boundaryNum": 1,
             "name": "Mudoi gaon",
             "localname": "Mudoi gaon",
             "longitude": null,
@@ -41,7 +41,7 @@
           },
           {
             "id": "f33f9fa5-dca5-4033-b286-789f606afb72",
-            "boundaryNum": 20,
+            "boundaryNum": 1,
             "name": "Barichoa gaon",
             "localname": "Barichoa gaon",
             "longitude": null,

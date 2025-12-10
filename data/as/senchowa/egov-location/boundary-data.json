@@ -30,7 +30,7 @@
           },
           {
             "id": "8c5a8ce8-74f0-4c41-87c3-adcf5906708c",
-            "boundaryNum": 2,
+            "boundaryNum": 1,
             "name": "Khutikatia",
             "localname": "Khutikatia",
             "longitude": null,
@@ -41,7 +41,7 @@
           },
           {
             "id": "e7966608-2b3a-4324-a184-756daa6c87e9",
-            "boundaryNum": 3,
+            "boundaryNum": 1,
             "name": "Kumar Gaon",
             "localname": "Kumar Gaon",
             "longitude": null,
@@ -52,7 +52,7 @@
           },
           {
             "id": "96f5390b-a878-4545-9e63-e06f754d274c",
-            "boundaryNum": 4,
+            "boundaryNum": 1,
             "name": "Phakali Pathar",
             "localname": "Phakali Pathar",
             "longitude": null,
@@ -63,7 +63,7 @@
           },
           {
             "id": "d591a595-9eb3-4666-9ec6-94b1cf97341e",
-            "boundaryNum": 5,
+            "boundaryNum": 1,
             "name": "Senchowa",
             "localname": "Senchowa",
             "longitude": null,

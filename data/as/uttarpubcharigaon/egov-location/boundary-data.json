@@ -19,7 +19,7 @@
         "children": [
           {
             "id": "c7bcccce-7255-41ee-abb5-480e34c2f589",
-            "boundaryNum": 17,
+            "boundaryNum": 1,
             "name": "SonariGaon",
             "localname": "SonariGaon",
             "longitude": null,
@@ -30,7 +30,7 @@
           },
           {
             "id": "f0d22efe-5fa7-4e69-b547-b923c9063f77",
-            "boundaryNum": 18,
+            "boundaryNum": 1,
             "name": "GajpuriyaGaon",
             "localname": "GajpuriyaGaon",
             "longitude": null,

@@ -19,7 +19,7 @@
         "children": [
           {
             "id": "71be7138-b39e-4d33-b498-cdec8b452ca0",
-            "boundaryNum": 7,
+            "boundaryNum": 1,
             "name": "Dergaon",
             "localname": "Dergaon",
             "longitude": null,
@@ -30,7 +30,7 @@
           },
           {
             "id": "4da306a6-51c8-4f3d-b622-f3adb1269dc0",
-            "boundaryNum": 8,
+            "boundaryNum": 1,
             "name": "Jelehua gaon",
             "localname": "Jelehua gaon",
             "longitude": null,
@@ -41,7 +41,7 @@
           },
           {
             "id": "b7747672-0b94-4050-aae9-124560794c8a",
-            "boundaryNum": 9,
+            "boundaryNum": 1,
             "name": "Feta gaon",
             "localname": "Feta gaon",
             "longitude": null,

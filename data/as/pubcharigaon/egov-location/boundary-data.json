@@ -19,7 +19,7 @@
         "children": [
           {
             "id": "0b84dbbf-4e70-4295-84a0-c6cb89e7c20d",
-            "boundaryNum": 7,
+            "boundaryNum": 1,
             "name": "AliamukhiaGaon",
             "localname": "AliamukhiaGaon",
             "longitude": null,
@@ -30,7 +30,7 @@
           },
           {
             "id": "e2063526-a1e3-4b8f-bb2c-d1eb8abed14d",
-            "boundaryNum": 8,
+            "boundaryNum": 1,
             "name": "No.2 BamunGaon",
             "localname": "No.2 BamunGaon",
             "longitude": null,
@@ -41,7 +41,7 @@
           },
           {
             "id": "56586771-12ad-4be7-a2dc-7c09b41aea54",
-            "boundaryNum": 9,
+            "boundaryNum": 1,
             "name": "NaosoliaGaon (NauSalia Gaon)",
             "localname": "NaosoliaGaon (NauSalia Gaon)",
             "longitude": null,

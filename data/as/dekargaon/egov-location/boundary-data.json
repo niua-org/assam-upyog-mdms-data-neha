@@ -31,7 +31,7 @@
             },
             {
               "id": "5ac138d1-dc0c-4b3e-a9e3-593186210b06",
-              "boundaryNum": 2,
+              "boundaryNum": 1,
               "name": "Harigaon",
               "localname": "Harigaon",
               "longitude": null,
@@ -42,7 +42,7 @@
             },
             {
               "id": "d43b8b18-4bc2-4ee6-bd2c-8934810d4362",
-              "boundaryNum": 3,
+              "boundaryNum": 1,
               "name": "Puthikhati",
               "localname": "Puthikhati",
               "longitude": null,
@@ -53,7 +53,7 @@
             },
             {
               "id": "e6c1d50d-6023-4c63-8c09-4eb5178bcfcd",
-              "boundaryNum": 4,
+              "boundaryNum": 1,
               "name": "Udmari Barjhar",
               "localname": "Udmari Barjhar",
               "longitude": null,

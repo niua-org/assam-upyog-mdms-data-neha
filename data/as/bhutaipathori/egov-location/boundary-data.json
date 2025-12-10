@@ -30,7 +30,7 @@
           },
           {
             "id": "35e02496-b91e-4e9a-81ed-4a730246663a",
-            "boundaryNum": 2,
+            "boundaryNum": 1,
             "name": "Dimaruguri (CT)",
             "localname": "Dimaruguri (CT)",
             "longitude": null,
@@ -41,7 +41,7 @@
           },
           {
             "id": "145df770-9987-41bb-8bc4-f2c5344aeaf9",
-            "boundaryNum": 3,
+            "boundaryNum": 1,
             "name": "Nam Pathari",
             "localname": "Nam Pathari",
             "longitude": null,
@@ -52,7 +52,7 @@
           },
           {
             "id": "bf2ae5e5-00da-4a7a-9bcf-0d31e77b620f",
-            "boundaryNum": 4,
+            "boundaryNum": 1,
             "name": "Maz Pathari",
             "localname": "Maz Pathari",
             "longitude": null,
@@ -63,7 +63,7 @@
           },
           {
             "id": "38f49726-21ea-47bd-b558-bb3cefa8dbb7",
-            "boundaryNum": 5,
+            "boundaryNum": 1,
             "name": "Niz-Pathari",
             "localname": "Niz-Pathari",
             "longitude": null,

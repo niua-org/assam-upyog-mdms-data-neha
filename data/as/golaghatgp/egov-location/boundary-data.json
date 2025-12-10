@@ -30,7 +30,7 @@
           },
           {
             "id": "ec960545-41d7-4ff7-a825-df2f5cafb5bd",
-            "boundaryNum": 2,
+            "boundaryNum": 1,
             "name": "Bongaon Part-I",
             "localname": "Bongaon Part-I",
             "longitude": null,
@@ -41,7 +41,7 @@
           },
           {
             "id": "fecdd881-8b58-404f-ad7b-f7e250b9bd50",
-            "boundaryNum": 3,
+            "boundaryNum": 1,
             "name": "Bongaon Part-II",
             "localname": "Bongaon Part-II",
             "longitude": null,
@@ -52,7 +52,7 @@
           },
           {
             "id": "41f86947-2fc0-40e3-9ed3-41d4a825ad28",
-            "boundaryNum": 4,
+            "boundaryNum": 1,
             "name": "Chinatoli gaon",
             "localname": "Chinatoli gaon",
             "longitude": null,

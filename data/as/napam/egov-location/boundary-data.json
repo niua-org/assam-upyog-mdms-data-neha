@@ -30,7 +30,7 @@
           },
           {
             "id": "9bbfd6d7-c89d-4694-a195-75ab3f1aa891",
-            "boundaryNum": 2,
+            "boundaryNum": 1,
             "name": "Parowa TE",
             "localname": "Parowa TE",
             "longitude": null,
@@ -41,7 +41,7 @@
           },
           {
             "id": "31bbdf3a-a33d-4466-bdc4-884fb60f9d04",
-            "boundaryNum": 3,
+            "boundaryNum": 1,
             "name": "Na-pam",
             "localname": "Na-pam",
             "longitude": null,
@@ -52,7 +52,7 @@
           },
           {
             "id": "3d1ec303-60f0-4c16-a95b-799e884c3bb2",
-            "boundaryNum": 4,
+            "boundaryNum": 1,
             "name": "Amolapam",
             "localname": "Amolapam",
             "longitude": null,
@@ -63,7 +63,7 @@
           },
           {
             "id": "3bdfac45-7aae-4f45-83ee-3bf533719fd8",
-            "boundaryNum": 5,
+            "boundaryNum": 1,
             "name": "Borguri",
             "localname": "Borguri",
             "longitude": null,
@@ -74,7 +74,7 @@
           },
           {
             "id": "b9ca3344-9b5e-4cc5-9faf-d180e20971de",
-            "boundaryNum": 6,
+            "boundaryNum": 1,
             "name": "Paramaighuli",
             "localname": "Paramaighuli",
             "longitude": null,
@@ -85,7 +85,7 @@
           },
           {
             "id": "f629a230-6a16-4e12-8b47-3ab911c9cf46",
-            "boundaryNum": 7,
+            "boundaryNum": 1,
             "name": "Solmara",
             "localname": "Solmara",
             "longitude": null,
@@ -96,7 +96,7 @@
           },
           {
             "id": "c0841eeb-a73f-42cc-8192-37c45a02b146",
-            "boundaryNum": 8,
+            "boundaryNum": 1,
             "name": "Rupkuria",
             "localname": "Rupkuria",
             "longitude": null,
@@ -107,7 +107,7 @@
           },
           {
             "id": "51ab59cb-02c8-4ac1-980e-276a0ffc4c8c",
-            "boundaryNum": 9,
+            "boundaryNum": 1,
             "name": "Baghchung",
             "localname": "Baghchung",
             "longitude": null,
@@ -118,7 +118,7 @@
           },
           {
             "id": "15eb1f31-d4b4-4460-af50-b47b666c0aeb",
-            "boundaryNum": 10,
+            "boundaryNum": 1,
             "name": "Kasakani",
             "localname": "Kasakani",
             "longitude": null,
@@ -129,7 +129,7 @@
           },
           {
             "id": "72810aa7-0636-41b2-a73f-c924cbc1df05",
-            "boundaryNum": 11,
+            "boundaryNum": 1,
             "name": "Ahatguri",
             "localname": "Ahatguri",
             "longitude": null,
@@ -140,7 +140,7 @@
           },
           {
             "id": "ad70b778-b8c5-4569-8aef-9cf2510e1d60",
-            "boundaryNum": 12,
+            "boundaryNum": 1,
             "name": "Puniani Gaon",
             "localname": "Puniani Gaon",
             "longitude": null,
@@ -151,7 +151,7 @@
           },
           {
             "id": "c1aa38e2-6eb0-43b0-a01e-d2d53c17601f",
-            "boundaryNum": 13,
+            "boundaryNum": 1,
             "name": "Salani Gaon",
             "localname": "Salani Gaon",
             "longitude": null,
@@ -162,7 +162,7 @@
           },
           {
             "id": "327c5fa4-c2a4-4143-804c-e7269a55f307",
-            "boundaryNum": 14,
+            "boundaryNum": 1,
             "name": "Jagalani",
             "localname": "Jagalani",
             "longitude": null,
@@ -173,7 +173,7 @@
           },
           {
             "id": "5b226421-279c-40f7-8b67-ecfc8062f0c0",
-            "boundaryNum": 15,
+            "boundaryNum": 1,
             "name": "Goroimari Gaon",
             "localname": "Goroimari Gaon",
             "longitude": null,
@@ -184,7 +184,7 @@
           },
           {
             "id": "f1002964-b385-4783-8d04-9fff3e01bd2d",
-            "boundaryNum": 16,
+            "boundaryNum": 1,
             "name": "Goroimari RF",
             "localname": "Goroimari RF",
             "longitude": null,

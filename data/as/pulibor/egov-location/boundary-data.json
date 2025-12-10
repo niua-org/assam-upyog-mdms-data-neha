@@ -19,7 +19,7 @@
         "children": [
           {
             "id": "4b688800-1830-4189-934c-c3b001bbb230",
-            "boundaryNum": 5,
+            "boundaryNum": 1,
             "name": "Golampatty Gaon Ist Part",
             "localname": "Golampatty Gaon Ist Part",
             "longitude": null,
@@ -30,7 +30,7 @@
           },
           {
             "id": "a4de0016-4a9e-440e-9d43-16139cda3ada",
-            "boundaryNum": 6,
+            "boundaryNum": 1,
             "name": "Golampatty Gaon IInd Part",
             "localname": "Golampatty Gaon IInd Part",
             "longitude": null,
@@ -41,7 +41,7 @@
           },
           {
             "id": "04da7832-a93f-44e5-bf8d-0362b7e60c0d",
-            "boundaryNum": 8,
+            "boundaryNum": 1,
             "name": "Chelangi Gaon.",
             "localname": "Chelangi Gaon.",
             "longitude": null,
