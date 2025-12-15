@@ -1,5 +1,5 @@
 {
-  "tenantId": "as.mangaldaimb",
+  "tenantId": "as.mangaldoimb",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
@@ -10,12 +10,12 @@
       "boundary": {
         "id": "7883de98-adc0-4552-bf55-5e15f15adba2",
         "boundaryNum": 1,
-        "name": "Mangaldai",
-        "localname": "Mangaldai",
+        "name": "Mangaldoi",
+        "localname": "Mangaldoi",
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "as.mangaldaimb",
+        "code": "as.mangaldoimb",
         "children": [
           {
             "id": "20ad409a-3db2-4cb7-90fe-1bbf64c4ef08",
