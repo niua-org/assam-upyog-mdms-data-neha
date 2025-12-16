@@ -21582,6 +21582,95 @@
       "serviceCode": "BPA",
       "code": "null",
       "path": ""
-   }
+   },
+	{
+  "id": 3087,
+  "name": "BPAApplicationReport",
+  "url": "url",
+  "displayName": "BPA Application Report",
+  "orderNumber": 13,
+  "parentModule": "rainmaker-obps",
+  "enabled": true,
+  "serviceCode": "OBPS",
+  "code": "null",
+  "path": "OBPS.Obps Reports.obpsApplicationReport",
+  "navigationURL": "report/rainmaker-obps/obpsApplicationReport",
+  "leftIcon": "places:business-center",
+  "rightIcon": ""
+},
+{
+  "id": 3088,
+  "name": "BPA Application Report",
+  "url": "/report/rainmaker-obps/obpsApplicationReport/metadata/_get",
+  "displayName": "rainmaker-obps-obpsApplicationReport",
+  "orderNumber": 13,
+  "parentModule": "",
+  "enabled": true,
+  "serviceCode": "report",
+  "code": "null",
+  "path": ""
+},
+{
+  "id": 3089,
+  "name": "BPA Application Report",
+  "url": "/report/rainmaker-obps/obpsApplicationReport/_get",
+  "displayName": "rainmaker-obps-obpsApplicationReport",
+  "orderNumber": 13,
+  "parentModule": "",
+  "enabled": true,
+  "serviceCode": "report",
+  "code": "null",
+  "path": ""
+},
+{
+  "id": 3090,
+  "name": "OBPSRegistryReport",
+  "url": "url",
+  "displayName": "OBPS Registry Report",
+  "orderNumber": 14,
+  "parentModule": "rainmaker-obps",
+  "enabled": true,
+  "serviceCode": "OBPS",
+  "code": "null",
+  "path": "OBPS.obps Reports.obpsRegistryReport",
+  "navigationURL": "report/rainmaker-obps/obpsRegistryReport",
+  "leftIcon": "places:business-center",
+  "rightIcon": ""
+},
+{
+  "id": 3091,
+  "name": "OBPS Registry Report",
+  "url": "/report/rainmaker-obps/obpsRegistryReport/metadata/_get",
+  "displayName": "rainmaker-obps-obpsRegistryReport",
+  "orderNumber": 14,
+  "parentModule": "",
+  "enabled": true,
+  "serviceCode": "report",
+  "code": "null",
+  "path": ""
+},
+{
+  "id": 3092,
+  "name": "OBPS Registry Report",
+  "url": "/report/rainmaker-obps/obpsRegistryReport/_get",
+  "displayName": "rainmaker-obps-obpsRegistryReport",
+  "orderNumber": 14,
+  "parentModule": "",
+  "enabled": true,
+  "serviceCode": "report",
+  "code": "null",
+  "path": ""
+},
+{
+      "id": 3086,
+      "name": "NOC Service Validate",
+      "url": "/noc-services/v1/noc/_validate",
+      "displayName": "NOC Service Validate",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "NOC",
+      "code": "null",
+      "path": ""
+   }	   
   ]
 }
