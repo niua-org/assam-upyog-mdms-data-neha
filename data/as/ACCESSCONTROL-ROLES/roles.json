@@ -1148,11 +1148,6 @@
       "description": "AAI Noc Internal Calls"
     },
     {
-      "code": "BPA_RTP",
-      "name": "Bpa RTP",
-      "description": "Bpa RTP"
-    },
-    {
       "code": "BPA_ENGINEER_GMDA",
       "name": "Bpa Engineer GMDA",
       "description": "Bpa Engineer GMDA"
