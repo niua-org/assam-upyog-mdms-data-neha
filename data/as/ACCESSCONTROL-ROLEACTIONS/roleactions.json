@@ -35673,6 +35673,1122 @@
       "actionid": 1931,
       "actioncode": "",
       "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ENGINEER_GMDA",
+      "actionid": 1930,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ENGINEER_GMDA",
+      "actionid": 1931,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ENGINEER_GMDA",
+      "actionid": 1950,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ENGINEER_GMDA",
+      "actionid": 1766,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ENGINEER_GMDA",
+      "actionid": 1972,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ENGINEER_GMDA",
+      "actionid": 1975,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ENGINEER_GMDA",
+      "actionid": 1989,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ENGINEER_GMDA",
+      "actionid": 1990,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ENGINEER_GMDA",
+      "actionid": 2027,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ENGINEER_GMDA",
+      "actionid": 2032,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ENGINEER_GMDA",
+      "actionid": 2041,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ENGINEER_GMDA",
+      "actionid": 2042,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ENGINEER_GMDA",
+      "actionid": 2043,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ENGINEER_GMDA",
+      "actionid": 2044,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ENGINEER_GMDA",
+      "actionid": 2005,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ENGINEER_GMDA",
+      "actionid": 701,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ENGINEER_GMDA",
+      "actionid": 2155,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ENGINEER_GMDA",
+      "actionid": 1752,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ENGINEER_GMDA",
+      "actionid": 2317,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ENGINEER_GMDA",
+      "actionid": 1743,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ENGINEER_GMDA",
+      "actionid": 1730,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ENGINEER_GMDA",
+      "actionid": 2002,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ENGINEER_GMDA",
+      "actionid": 2003,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ENGINEER_GMDA",
+      "actionid": 1863,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ENGINEER_GMDA",
+      "actionid": 1864,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ENGINEER_GMDA",
+      "actionid": 1865,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ENGINEER_GMDA",
+      "actionid": 3077,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ENGINEER_GMDA",
+      "actionid": 3078,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ENGINEER_GMDA",
+      "actionid": 3082,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ENGINEER_GMDA",
+      "actionid": 3084,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ENGINEER_GMDA",
+      "actionid": 3085,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_TOWNPLANNER",
+      "actionid": 1930,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_TOWNPLANNER",
+      "actionid": 1931,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_TOWNPLANNER",
+      "actionid": 1950,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_TOWNPLANNER",
+      "actionid": 1766,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_TOWNPLANNER",
+      "actionid": 1972,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_TOWNPLANNER",
+      "actionid": 1975,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_TOWNPLANNER",
+      "actionid": 1989,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_TOWNPLANNER",
+      "actionid": 1990,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_TOWNPLANNER",
+      "actionid": 2027,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_TOWNPLANNER",
+      "actionid": 2032,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_TOWNPLANNER",
+      "actionid": 2041,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_TOWNPLANNER",
+      "actionid": 2042,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_TOWNPLANNER",
+      "actionid": 2043,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_TOWNPLANNER",
+      "actionid": 2044,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_TOWNPLANNER",
+      "actionid": 2005,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_TOWNPLANNER",
+      "actionid": 701,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_TOWNPLANNER",
+      "actionid": 2155,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_TOWNPLANNER",
+      "actionid": 1752,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_TOWNPLANNER",
+      "actionid": 2317,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_TOWNPLANNER",
+      "actionid": 1743,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_TOWNPLANNER",
+      "actionid": 1730,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_TOWNPLANNER",
+      "actionid": 2002,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_TOWNPLANNER",
+      "actionid": 2003,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_TOWNPLANNER",
+      "actionid": 1863,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_TOWNPLANNER",
+      "actionid": 1864,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_TOWNPLANNER",
+      "actionid": 1865,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_TOWNPLANNER",
+      "actionid": 3077,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_TOWNPLANNER",
+      "actionid": 3078,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_TOWNPLANNER",
+      "actionid": 3082,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_TOWNPLANNER",
+      "actionid": 3084,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_TOWNPLANNER",
+      "actionid": 3085,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CEO",
+      "actionid": 1930,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CEO",
+      "actionid": 1931,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CEO",
+      "actionid": 1950,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CEO",
+      "actionid": 1766,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CEO",
+      "actionid": 1972,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CEO",
+      "actionid": 1975,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CEO",
+      "actionid": 1989,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CEO",
+      "actionid": 1990,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CEO",
+      "actionid": 2027,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CEO",
+      "actionid": 2032,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CEO",
+      "actionid": 2041,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CEO",
+      "actionid": 2042,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CEO",
+      "actionid": 2043,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CEO",
+      "actionid": 2044,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CEO",
+      "actionid": 2005,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CEO",
+      "actionid": 701,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CEO",
+      "actionid": 2155,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CEO",
+      "actionid": 1752,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CEO",
+      "actionid": 2317,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CEO",
+      "actionid": 1743,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CEO",
+      "actionid": 1730,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CEO",
+      "actionid": 2002,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CEO",
+      "actionid": 2003,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CEO",
+      "actionid": 1863,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CEO",
+      "actionid": 1864,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CEO",
+      "actionid": 1865,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CEO",
+      "actionid": 3077,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CEO",
+      "actionid": 3078,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CEO",
+      "actionid": 3082,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CEO",
+      "actionid": 3084,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CEO",
+      "actionid": 3085,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ZONALOFFICER_GMC",
+      "actionid": 1930,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ZONALOFFICER_GMC",
+      "actionid": 1931,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ZONALOFFICER_GMC",
+      "actionid": 1950,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ZONALOFFICER_GMC",
+      "actionid": 1766,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ZONALOFFICER_GMC",
+      "actionid": 1972,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ZONALOFFICER_GMC",
+      "actionid": 1975,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ZONALOFFICER_GMC",
+      "actionid": 1989,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ZONALOFFICER_GMC",
+      "actionid": 1990,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ZONALOFFICER_GMC",
+      "actionid": 2027,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ZONALOFFICER_GMC",
+      "actionid": 2032,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ZONALOFFICER_GMC",
+      "actionid": 2041,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ZONALOFFICER_GMC",
+      "actionid": 2042,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ZONALOFFICER_GMC",
+      "actionid": 2043,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ZONALOFFICER_GMC",
+      "actionid": 2044,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ZONALOFFICER_GMC",
+      "actionid": 2005,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ZONALOFFICER_GMC",
+      "actionid": 701,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ZONALOFFICER_GMC",
+      "actionid": 2155,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ZONALOFFICER_GMC",
+      "actionid": 1752,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ZONALOFFICER_GMC",
+      "actionid": 2317,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ZONALOFFICER_GMC",
+      "actionid": 1743,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ZONALOFFICER_GMC",
+      "actionid": 1730,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ZONALOFFICER_GMC",
+      "actionid": 2002,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ZONALOFFICER_GMC",
+      "actionid": 2003,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ZONALOFFICER_GMC",
+      "actionid": 1863,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ZONALOFFICER_GMC",
+      "actionid": 1864,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ZONALOFFICER_GMC",
+      "actionid": 1865,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ZONALOFFICER_GMC",
+      "actionid": 3077,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ZONALOFFICER_GMC",
+      "actionid": 3078,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ZONALOFFICER_GMC",
+      "actionid": 3082,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ZONALOFFICER_GMC",
+      "actionid": 3084,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ZONALOFFICER_GMC",
+      "actionid": 3085,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ASSOCIATE_PLANNER",
+      "actionid": 1930,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ASSOCIATE_PLANNER",
+      "actionid": 1931,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ASSOCIATE_PLANNER",
+      "actionid": 1950,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ASSOCIATE_PLANNER",
+      "actionid": 1766,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ASSOCIATE_PLANNER",
+      "actionid": 1972,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ASSOCIATE_PLANNER",
+      "actionid": 1975,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ASSOCIATE_PLANNER",
+      "actionid": 1989,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ASSOCIATE_PLANNER",
+      "actionid": 1990,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ASSOCIATE_PLANNER",
+      "actionid": 2027,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ASSOCIATE_PLANNER",
+      "actionid": 2032,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ASSOCIATE_PLANNER",
+      "actionid": 2041,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ASSOCIATE_PLANNER",
+      "actionid": 2042,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ASSOCIATE_PLANNER",
+      "actionid": 2043,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ASSOCIATE_PLANNER",
+      "actionid": 2044,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ASSOCIATE_PLANNER",
+      "actionid": 2005,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ASSOCIATE_PLANNER",
+      "actionid": 701,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ASSOCIATE_PLANNER",
+      "actionid": 2155,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ASSOCIATE_PLANNER",
+      "actionid": 1752,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ASSOCIATE_PLANNER",
+      "actionid": 2317,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ASSOCIATE_PLANNER",
+      "actionid": 1743,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ASSOCIATE_PLANNER",
+      "actionid": 1730,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ASSOCIATE_PLANNER",
+      "actionid": 2002,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ASSOCIATE_PLANNER",
+      "actionid": 2003,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ASSOCIATE_PLANNER",
+      "actionid": 1863,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ASSOCIATE_PLANNER",
+      "actionid": 1864,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ASSOCIATE_PLANNER",
+      "actionid": 1865,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ASSOCIATE_PLANNER",
+      "actionid": 3077,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ASSOCIATE_PLANNER",
+      "actionid": 3078,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ASSOCIATE_PLANNER",
+      "actionid": 3082,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ASSOCIATE_PLANNER",
+      "actionid": 3084,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ASSOCIATE_PLANNER",
+      "actionid": 3085,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+     {
+      "rolecode": "BPA_COMMISSIONER",
+      "actionid": 1950,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_COMMISSIONER",
+      "actionid": 1766,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_COMMISSIONER",
+      "actionid": 1972,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_COMMISSIONER",
+      "actionid": 1975,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_COMMISSIONER",
+      "actionid": 1989,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_COMMISSIONER",
+      "actionid": 1990,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_COMMISSIONER",
+      "actionid": 2027,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_COMMISSIONER",
+      "actionid": 2032,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_COMMISSIONER",
+      "actionid": 2041,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_COMMISSIONER",
+      "actionid": 2042,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_COMMISSIONER",
+      "actionid": 2043,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_COMMISSIONER",
+      "actionid": 2044,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_COMMISSIONER",
+      "actionid": 2005,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_COMMISSIONER",
+      "actionid": 701,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_COMMISSIONER",
+      "actionid": 2155,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_COMMISSIONER",
+      "actionid": 1752,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_COMMISSIONER",
+      "actionid": 2317,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_COMMISSIONER",
+      "actionid": 1743,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_COMMISSIONER",
+      "actionid": 1730,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_COMMISSIONER",
+      "actionid": 2002,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_COMMISSIONER",
+      "actionid": 2003,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_COMMISSIONER",
+      "actionid": 1863,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_COMMISSIONER",
+      "actionid": 1864,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_COMMISSIONER",
+      "actionid": 1865,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_COMMISSIONER",
+      "actionid": 3077,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_COMMISSIONER",
+      "actionid": 3078,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_COMMISSIONER",
+      "actionid": 3082,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_COMMISSIONER",
+      "actionid": 3084,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_COMMISSIONER",
+      "actionid": 3085,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+	{
+      "rolecode": "BPA_COMMISSIONER",
+      "actionid": 1930,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_COMMISSIONER",
+      "actionid": 1931,
+      "actioncode": "",
+      "tenantId": "as"
     }
   ]
 }
