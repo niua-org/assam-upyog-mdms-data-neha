@@ -6091,7 +6091,7 @@
         "code": "2021",
         "ddrName": "Sonari Development Authority"
       }
-    }
+    },
     {
       "code": "as.gmc",
       "name": "Municipal Corporation",
@@ -6111,6 +6111,7 @@
         "planningAreaCode": "KAMRUP_METRO_MP",
         "code": "1874",
         "ddrName": "Municipal Corporation"
+      }
       },
       {
       "code": "as.dergaonda",
