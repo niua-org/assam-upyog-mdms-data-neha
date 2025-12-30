@@ -89,8 +89,8 @@
             "multiplier":""
         },
         {
-            "applicationType": "COMMERCIAL",
-            "subOccupancy": "COMMERCIAL",
+            "applicationType": "MERCANTILE / COMMERCIAL",
+            "subOccupancy": "COMMERCIAL BUILDING",
             "serviceType":"",
             "floorLevel":"Ground",
             "feeType":"PLANNING_PERMIT_FEE",
@@ -100,8 +100,31 @@
             "multiplier":"8"
         },
         {
-            "applicationType": "COMMERCIAL",
-            "subOccupancy": "COMMERCIAL",
+            "applicationType": "MERCANTILE / COMMERCIAL",
+            "subOccupancy": "COMMERCIAL BUILDING",
+            "serviceType":"",
+            "floorLevel":"Upper",
+            "feeType":"PLANNING_PERMIT_FEE",
+            "unitType":"per sq. M",
+            "rate":"48.00",
+            "additionalFee":"5000.00",
+            "multiplier":"8"
+
+        },
+        {
+            "applicationType": "MERCANTILE / COMMERCIAL",
+            "subOccupancy": "MERCANTILE / COMMERCIAL",
+            "serviceType":"",
+            "floorLevel":"Ground",
+            "feeType":"PLANNING_PERMIT_FEE",
+            "unitType":"per sq. M",
+            "rate":"40.00",
+            "additionalFee":"5000.00",
+            "multiplier":"8"
+        },
+        {
+            "applicationType": "MERCANTILE / COMMERCIAL",
+            "subOccupancy": "MERCANTILE / COMMERCIAL",
             "serviceType":"",
             "floorLevel":"Upper",
             "feeType":"PLANNING_PERMIT_FEE",
@@ -198,8 +221,8 @@
             "multiplier":""
         },
         {
-            "applicationType": "COMMERCIAL",
-            "subOccupancy": "COMMERCIAL",
+            "applicationType": "MERCANTILE / COMMERCIAL",
+            "subOccupancy": "COMMERCIAL BUILDING",
             "serviceType":"",
             "floorLevel":"Ground",
             "feeType":"BUILDING_PERMIT_FEE",
@@ -209,8 +232,31 @@
             "multiplier":""
         },
         {
-            "applicationType": "COMMERCIAL",
-            "subOccupancy": "COMMERCIAL",
+            "applicationType": "MERCANTILE / COMMERCIAL",
+            "subOccupancy": "COMMERCIAL BUILDING",
+            "serviceType":"",
+            "floorLevel":"Upper",
+            "feeType":"BUILDING_PERMIT_FEE",
+            "unitType":"per sq. M",
+            "rate":"80.00",
+            "additionalFee":"25000.00",
+            "multiplier":""
+        },
+
+        {
+            "applicationType": "MERCANTILE / COMMERCIAL",
+            "subOccupancy": "MERCANTILE / COMMERCIAL",
+            "serviceType":"",
+            "floorLevel":"Ground",
+            "feeType":"BUILDING_PERMIT_FEE",
+            "unitType":"per sq. M",
+            "rate":"60.00",
+            "additionalFee":"25000.00",
+            "multiplier":""
+        },
+        {
+            "applicationType": "MERCANTILE / COMMERCIAL",
+            "subOccupancy": "MERCANTILE / COMMERCIAL",
             "serviceType":"",
             "floorLevel":"Upper",
             "feeType":"BUILDING_PERMIT_FEE",
