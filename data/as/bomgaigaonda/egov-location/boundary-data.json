@@ -1,5 +1,5 @@
 {
-  "tenantId": "as.bomgaigaonda",
+  "tenantId": "as.bongaigaonda",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
@@ -15,7 +15,7 @@
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "as.bomgaigaonda",
+        "code": "as.bongaigaonda",
         "children": []
       }
     }
