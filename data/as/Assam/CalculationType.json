@@ -31,7 +31,7 @@
             "unitType":"per sq. M",
             "rate":"10.00",
             "additionalFee":"",
-            "multiplier":"8"
+            "multiplier":""
         },
         {
             "applicationType": "RESIDENTIAL",
@@ -70,10 +70,10 @@
             "applicationType": "RESIDENTIAL",
             "subOccupancy": "APARTMENT/FLAT",
             "serviceType":"",
-            "floorLevel":"Upper",
+            "floorLevel":"Ground",
             "feeType":"BUILDING_PERMIT_FEE",
             "unitType":"per sq. M",
-            "rate":"40.00",
+            "rate": "30.00",
             "additionalFee":"",
             "multiplier":""
         },
@@ -81,10 +81,10 @@
             "applicationType": "RESIDENTIAL",
             "subOccupancy": "APARTMENT/FLAT",
             "serviceType":"",
-            "floorLevel":"Ground",
+            "floorLevel":"Upper",
             "feeType":"BUILDING_PERMIT_FEE",
             "unitType":"per sq. M",
-            "rate": "30.00",
+            "rate":"40.00",
             "additionalFee":"",
             "multiplier":""
         },
