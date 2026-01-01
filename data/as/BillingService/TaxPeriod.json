@@ -1906,6 +1906,14 @@
       "service": "BPA.BUILDING_PERMIT_RENEWAL_FEE",
       "code": "BPA10YRS2018",
       "financialYear": "2018-28"
+    },
+    {
+      "fromDate": 1522540801000,
+      "toDate": 1838159999000,
+      "periodCycle": "FORTENYEARS",
+      "service": "BPA.LABOUR_CESS",
+      "code": "BPA10YRS2018",
+      "financialYear": "2018-28"
     }
   ]
 }

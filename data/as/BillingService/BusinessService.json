@@ -2139,6 +2139,17 @@
     },
     {
       "businessService": "BPA.NEW_CONSTRUCTION",
+      "code": "BPA.LABOUR_CESS",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true
+    },
+    {
+      "businessService": "BPA.NEW_CONSTRUCTION",
       "code": "BPA.BUILDING_PERMIT_RENEWAL_FEE",
       "collectionModesNotAllowed": [
         "DD"
